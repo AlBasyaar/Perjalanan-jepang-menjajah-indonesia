@@ -2,6 +2,7 @@ import React from 'react';
 import Hero from '../components/Hero';
 import SectionTitle from '../components/SectionTitle';
 import InfoCard from '../components/InfoCard';
+import ScrollTop from '../components/ScrollTop';
 import { BookHeart, LandPlot, BarChart4, Scale } from 'lucide-react';
 
 const About = () => {
@@ -9,7 +10,7 @@ const About = () => {
     <>
       <Hero
         title="Tentang Pendudukan Jepang"
-        subtitle="Menelusuri sejarah, dampak, dan warisan periode pendudukan Jepang di Indonesia"
+        subtitle="Menelusuri sejarah, dampak, Peninggalan sejarah dan Manfaat Kedatangan jepang untuk pelajar, periode pendudukan Jepang di Indonesia"
         height="medium"
         image="https://raw.githubusercontent.com/miftahfarhan13/foto-sejarah-indonesia/main/latihan-militer-jepang.jpg"
       />
@@ -289,6 +290,7 @@ const About = () => {
           </div>
         </div>
       </section>
+      <ScrollTop />
     </>
   );
 };

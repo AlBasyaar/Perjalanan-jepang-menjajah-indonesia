@@ -4,6 +4,7 @@ import Hero from '../components/Hero';
 import SectionTitle from '../components/SectionTitle';
 import TimelineItem from '../components/TimelineItem';
 import InfoCard from '../components/InfoCard';
+import ScrollTop from '../components/ScrollTop';
 import { Scroll, Users, GanttChart, BookOpen } from 'lucide-react';
 
 // Import images safely with fallbacks
@@ -36,8 +37,8 @@ const Home = () => {
             <Link to="/about" className="btn btn-primary">
               Pelajari Lebih Lanjut
             </Link>
-            <a href="#ringkasan" className="btn btn-outline">
-              Ringkasan
+            <a href="#ringkasan"  className="border border-blue-800 text-white hover:bg-blue-800 hover:text-white px-4 py-2 rounded transition duration-300">
+               Ringkasan
             </a>
           </>
         }
@@ -230,6 +231,7 @@ const Home = () => {
           </div>
         </div>
       </section>
+      <ScrollTop />
     </>
   );
 };

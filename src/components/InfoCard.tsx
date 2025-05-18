@@ -21,7 +21,7 @@ const InfoCard: React.FC<InfoCardProps> = ({
           <img 
             src={imageSrc} 
             alt={title} 
-            className="w-full h-full object-cover transition-transform duration-700 hover:scale-110"
+            className="w-full h-full object-cover object-[center_20%] transition-transform duration-700 hover:scale-110"
           />
         </div>
       )}
