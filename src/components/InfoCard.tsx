@@ -15,13 +15,13 @@ const InfoCard: React.FC<InfoCardProps> = ({
   imageSrc 
 }) => {
   return (
-    <div className="bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300 hover:-translate-y-2 fade-in">
+    <div className="max-w-sm rounded-xl overflow-hidden shadow-md bg-white">
       {imageSrc && (
-        <div className="h-48 overflow-hidden">
+        <div className="h-56 flex items-center justify-center bg-white pt-4 px-4">
           <img 
             src={imageSrc} 
             alt={title} 
-            className="w-full h-full object-cover object-[center_20%] transition-transform duration-700 hover:scale-110"
+            className="object-contain h-full w-auto mx-auto transition-transform duration-700 hover:scale-105"
           />
         </div>
       )}

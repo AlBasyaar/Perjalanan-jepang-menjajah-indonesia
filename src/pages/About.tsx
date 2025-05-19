@@ -9,8 +9,8 @@ const About = () => {
   return (
     <>
       <Hero
-        title="Tentang Pendudukan Jepang"
-        subtitle="Menelusuri sejarah, dampak, Peninggalan sejarah dan Manfaat Kedatangan jepang untuk pelajar, periode pendudukan Jepang di Indonesia"
+        title="Jejak Pendudukan Jepang di indonesia"
+        subtitle="Perubahan besar dalam waktu singkat, dari kolonialisme ke kemerdekaan."
         height="medium"
         image="https://raw.githubusercontent.com/miftahfarhan13/foto-sejarah-indonesia/main/latihan-militer-jepang.jpg"
       />

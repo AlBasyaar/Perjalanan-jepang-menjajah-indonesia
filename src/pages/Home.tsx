@@ -197,7 +197,7 @@ const Home = () => {
               title="Ir. Soekarno"
               description="Tokoh nasionalis yang menjadi pemimpin PUTERA dan Jawa Hokokai. Berperan sebagai penghubung antara Jepang dan rakyat Indonesia, namun diam-diam mempersiapkan kemerdekaan."
               imageSrc={irSoekarnoImage}
-              className="min-w-[250px] snap-start"
+               className="min-w-[280px] md:min-w-[250px] flex-shrink-0 snap-start"
             />
 
             <InfoCard
