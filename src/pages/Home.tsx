@@ -31,7 +31,7 @@ const Home = () => {
     <>
       <Hero
         title="Masa saat jepang menjajah indonesia"
-        subtitle="Menelusuri sejarah periode 1942-1945 yang menjadi babak penting dalam perjalanan Indonesia menuju kemerdekaan"
+        subtitle="Periode 1942–1945 bukan sekadar masa penjajahan, tapi titik balik yang membentuk tekad Indonesia untuk merdeka."
         buttons={
           <>
             <Link to="/about" className="btn btn-primary">
@@ -56,7 +56,7 @@ const Home = () => {
             <div className="fade-in">
               <p className="text-gray-700 mb-6">
                 Masuknya Jepang ke Indonesia tidak lepas dari kepentingan ekonomi dan strategi militer mereka dalam Perang Dunia II. Jepang sangat membutuhkan sumber daya alam seperti minyak bumi, karet, dan timah yang dimiliki oleh Hindia Belanda (Indonesia). Selain itu, Jepang juga ingin memperluas pengaruhnya di Asia Tenggara dan menyingkirkan dominasi bangsa Barat, terutama Belanda, Inggris, dan Amerika Serikat. Melalui slogan "Asia untuk Asia", Jepang mengklaim diri sebagai pembebas bangsa-bangsa Asia dari penjajahan Barat.
-                Ketegangan semakin meningkat setelah Jepang menyerang pangkalan militer Amerika Serikat di Pearl Harbor pada 7 Desember 1941. Serangan ini memicu perang besar di kawasan Asia-Pasifik dan membuat Belanda ikut terlibat sebagai bagian dari Sekutu. Jepang kemudian memulai invasinya ke wilayah Indonesia dengan mendaratkan pasukan di Tarakan, Kalimantan Timur, pada 11 Januari 1942. Dalam waktu singkat, mereka berhasil menguasai wilayah-wilayah penting lainnya di Kalimantan seperti Balikpapan, Pontianak, Samarinda, dan Banjarmasin.              </p>
+                Ketegangan semakin meningkat setelah Jepang menyerang pangkalan militer Amerika Serikat di Pearl Harbor pada 7 Desember 1941. Serangan ini memicu perang besar di kawasan Asia-Pasifik dan membuat Belanda ikut terlibat sebagai bagian dari Sekutu. Jepang kemudian memulai invasinya ke wilayah Indonesia dengan mendaratkan pasukan di Tarakan, Kalimantan Timur, pada 11 Januari 1942. Dalam waktu singkat, mereka berhasil menguasai wilayah-wilayah penting lainnya di Kalimantan seperti Balikpapan, Pontianak, Samarinda, dan Banjarmasin. </p>
               <p className="text-gray-700 mb-6">
                 Setelah berhasil di Kalimantan, pasukan Jepang melanjutkan serangan ke Sumatera dan menduduki Palembang pada 16 Februari 1942. Kemudian mereka menyerbu Pulau Jawa, pusat pemerintahan Hindia Belanda, melalui Teluk Banten dan Kragan. Batavia (Jakarta) berhasil direbut pada 5 Maret, disusul oleh Bandung pada 7 Maret 1942. Keberhasilan Jepang dalam menaklukkan wilayah-wilayah strategis ini membuat Belanda semakin terdesak dan kehilangan kekuatan militernya.
               </p>

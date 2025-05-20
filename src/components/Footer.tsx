@@ -12,12 +12,11 @@ const Footer: React.FC = () => {
           <div>
             <Link to="/" className="flex items-center space-x-2 mb-4">
           
-              <span className="font-serif text-xl font-bold tracking-wide">Sejarah</span>
+              <span className="font-serif text-xl font-bold tracking-wide">Luka Sejarah, Semangat Bangsa</span>
             </Link>
             <p className="text-cream-light/80 mb-4">
-              Situs web ini didedikasikan untuk mengedukasi masyarakat tentang 
-              periode pendudukan Jepang di Indonesia (1942-1945), sebuah bagian 
-              penting dari sejarah Indonesia menuju kemerdekaan.
+             Situs ini bertujuan untuk mengedukasi masyarakat tentang masa pendudukan Jepang di Indonesia (1942–1945), 
+             sebuah fase sejarah yang penuh tantangan dan menjadi fondasi penting dalam perjuangan meraih kemerdekaan.
             </p>
             <div className="flex space-x-4">
               <a href="https://github.com/AlBasyaar" aria-label="Github" className="text-cream-light hover:text-red transition">
@@ -60,7 +59,7 @@ const Footer: React.FC = () => {
               <li className="flex items-start space-x-3">
                 <Phone size={20} className="text-red mt-1 flex-shrink-0" />
                 <span className="text-cream-light/80">
-                  +62 812-9401-9928
+                  +62 813-8877-2645
                 </span>
               </li>
             </ul>
