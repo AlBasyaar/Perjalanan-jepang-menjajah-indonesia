@@ -3,6 +3,7 @@ import Hero from '../components/Hero';
 import SectionTitle from '../components/SectionTitle';
 import InfoCard from '../components/InfoCard';
 import ScrollTop from '../components/ScrollTop';
+import WordwallQR from "../assets/WordwallKel_6.png";
 import { BookHeart, LandPlot, BarChart4, Scale } from 'lucide-react';
 
 const About = () => {
@@ -286,6 +287,20 @@ const About = () => {
               <strong>3. Inspirasi dari Tokoh Pejuang Didikan Jepang</strong><br />
               Banyak tokoh pejuang Indonesia, seperti Jenderal Soedirman, mendapat pelatihan militer saat masa penjajahan Jepang.
               Mereka menjadi inspirasi semangat belajar, kepemimpinan, dan perjuangan bagi generasi muda Indonesia.
+            </p>
+          </div>
+
+          <div className="bg-white mt-4 rounded-lg shadow-lg p-8 fade-in flex flex-col items-center justify-center">
+            <h3 className="text-2xl font-bold mb-4 text-center">
+            Gaskeun maen bray 
+            </h3>
+            <img
+              src={WordwallQR}
+              alt="QR Code linking to Wordwall resource about Japanese influence for students"
+              className="img-fit"
+            />
+            <p className="mt-4 text-center text-gray-700">
+              2 teratas dapet reward
             </p>
           </div>
         </div>
