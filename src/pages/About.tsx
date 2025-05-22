@@ -290,6 +290,69 @@ const About = () => {
             </p>
           </div>
 
+          <div className="bg-white mt-4 rounded-lg shadow-lg p-8 fade-in">
+            <h3 className="text-2xl font-bold mb-4 text-navy">
+              Kebijakan Jepang di Indonesia pada Masa Penjajahan
+            </h3>
+
+            <p className="mb-4 text-gray-700">
+              <strong>1. Eksploitasi Sumber Daya</strong><br />
+              Jepang memanfaatkan sumber daya alam dan tenaga kerja Indonesia untuk mendukung perang. 
+              Hasil bumi, logistik, dan bahan mentah dikirim ke Jepang.
+            </p>
+
+            <p className="mb-4 text-gray-700">
+              <strong>2. Kerja Paksa (Romusha)</strong><br />
+              Rakyat Indonesia dipaksa bekerja secara paksa untuk proyek-proyek Jepang seperti membangun jalan, 
+              rel kereta api, dan lapangan terbang. Banyak yang meninggal karena kondisi kerja yang buruk.
+            </p>
+
+            <p className="text-gray-700">
+              <strong>3. Penghapusan Pengaruh Barat</strong><br />
+              Jepang melarang penggunaan bahasa Belanda dan mengganti sistem pendidikan serta budaya yang berbau Barat dengan budaya Jepang.
+            </p>
+            <br />
+            <p className="text-gray-700">
+              <strong>4. Propaganda dan Mobilisasi</strong><br />
+              Jepang membentuk organisasi seperti Putera, Heiho, dan PETA untuk menarik simpati rakyat dan memobilisasi mereka membantu Jepang. Semboyan seperti "Asia untuk Asia" digunakan untuk membenarkan penjajahan mereka.
+            </p>
+            <br />
+            <p className="text-gray-700">
+              <strong>5. Kontrol Ketat dan Sensor</strong><br />
+              Pemerintah Jepang melakukan sensor ketat terhadap media dan membatasi kebebasan berbicara serta berkumpul untuk mencegah perlawanan.
+            </p>
+          </div>
+
+          <div className="bg-white mt-4 rounded-lg shadow-lg p-8 fade-in">
+            <h3 className="text-2xl font-bold mb-4 text-navy">
+              Propaganda 3A
+            </h3>
+
+            <p className="mb-4 text-gray-700">
+              <strong>Propaganda 3A</strong><br />
+              Propaganda 3A adalah salah satu bentuk propaganda Jepang di Indonesia pada masa penjajahan (1942–1945). Tujuan utamanya adalah untuk menarik simpati rakyat Indonesia agar mendukung Jepang dalam Perang Asia-Pasifik. Propaganda ini diperkenalkan melalui berbagai media seperti koran, radio, dan poster.
+            </p>
+
+            <p className="mb-4 text-gray-700">
+              <strong>Isi dari Propaganda 3A :</strong>
+              <br />
+              1. Nippon Pelindung Asia : <br />
+              Jepang mengklaim sebagai pelindung negara-negara Asia dari penjajahan Barat. <br />
+              2. Nippon Cahaya Asia : <br />
+              Jepang dianggap sebagai pembawa kemajuan dan penerang bagi bangsa-bangsa Asia. <br />
+              3. Nippon Pemimpin Asia : <br />
+              Jepang menyatakan dirinya layak menjadi pemimpin negara-negara Asia dalam membentuk “Asia Raya”. <br />
+            </p>
+
+            <p className="text-gray-700">
+              <strong>Tujuan Propaganda 3A :</strong><br />
+              <li>Menumbuhkan citra positif Jepang di mata rakyat Indonesia.</li>
+              <li>Membangun solidaritas Asia di bawah kepemimpinan Jepang.</li>
+              <li>Melemahkan pengaruh Barat, khususnya Belanda.</li>
+            </p>
+
+          </div>
+
           <div className="bg-white mt-4 rounded-lg shadow-lg p-8 fade-in flex flex-col items-center justify-center">
             <h3 className="text-2xl font-bold mb-4 text-center">
             Gaskeun maen bray 
