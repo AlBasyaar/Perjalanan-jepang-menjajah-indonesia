@@ -363,7 +363,7 @@ const About = () => {
               className="img-fit"
             />
             <p className="mt-4 text-center text-gray-700">
-              2 teratas dapet reward
+              1 teratas dapet reward
             </p>
           </div>
         </div>
